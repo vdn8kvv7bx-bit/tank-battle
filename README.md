@@ -27,7 +27,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/tank-battle.git
+git clone https://github.com/vdn8kvv7bx-bit/tank-battle.git
 
 # 打开游戏
 cd tank-battle
